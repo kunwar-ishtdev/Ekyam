@@ -26,7 +26,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/Shubham-kumar2507/Ekyam.git
+git clone https://github.com/Kunwar-ishtdev/Ekyam.git
 Navigate to the project directory:
 
 bash
